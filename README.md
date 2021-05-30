@@ -9,4 +9,8 @@
  
  In the last game, it is possible to survive forever put constantly pressing the down key, since it allows you to stay there while shooting lasers. One way to change this is by increasing speed or by increasing the ranges of spawn. 
  
- The second game can be problematic. The ball always bounced 90 degrees, which makes it too predictable.
+ The second game can be problematic. The ball always bounces 90 degrees, which makes it too predictable.
+
+Fixed Bugs:
+
+Score counter not resetting was fixed.
